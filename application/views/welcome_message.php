@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <footer style="height:130px; background-color:#990000;">
     <div style="color:white; font-size: 20px;">
-        <p>Datos del 01/01/2020 al 31/04/2020 </p>
+        <p>Datos del 01/01/2020 al 30/04/2020 </p>
         <p>By: Diego Del Río, Fernanda Rosales. </p>
         <p> Referencias bibliográficas: Datos Abiertos - Dirección General de Epidemiología</p>
     </div>
